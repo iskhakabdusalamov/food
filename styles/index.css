@@ -377,7 +377,7 @@
   position: absolute;
   display: block;
   content: "";
-  background: url(../icons/switch.svg) center center/cover no-repeat;
+  background: url(./img/icons/switch.svg) center center/cover no-repeat;
   top: 50%;
   transform: translateY(-50%);
   height: 16px;
